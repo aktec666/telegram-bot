@@ -8,6 +8,7 @@ dispatcher = updater.dispatcher
 
 food_time_dict = {"курица": 3, "мясо": 5, "рыба": 2, "пицца":1}
 
+#добавил комментарий
 
 def food_list(update, context):
     food_str = '\n'
